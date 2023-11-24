@@ -25,4 +25,5 @@ body {
   min-height: 100vh;
   padding: 50px;
   gap: 50px;
+  background-color: black;
 }
